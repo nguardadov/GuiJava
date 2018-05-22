@@ -12,6 +12,7 @@ import gui.Ventana;
  * @author uca
  */
 public class Main {
+    ///clase main
     public static void main(String[] args) {
         new Ventana().setVisible(true);
         
